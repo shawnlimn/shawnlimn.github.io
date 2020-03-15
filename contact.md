@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       📲CONTAddCT
+  en      : &EN       📲CONTACT
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
@@ -26,17 +26,18 @@ titles:
 key: page-about
 ---
 
-## 📧Email
-[*linx0057@e.ntu.edu.sg*](mailto:linx0057@e.ntu.edu.sg)
-
-
 ## 🧱Address
-
 **Multimedia and Interactive Computing Lab (MICL)** <br>
 Block N4 #B1C-17 <br>
 School of Computer Science and Engineering <br>
 Nanyang Technological University <br>
 Singapore 639798<br>
+
+## 📧Email
+[*linx0057@e.ntu.edu.sg*](mailto:linx0057@e.ntu.edu.sg)
+
+
+
 
 
 
