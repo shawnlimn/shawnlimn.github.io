@@ -26,30 +26,15 @@ titles:
 key: page-about
 ---
 
-Google Scholar <a href="https://scholar.google.com/citations?user=R4ZlMwIAAAAJ&hl=en&oi=sra"><i class="fab fa-google"></i></a><br>
-Semantic Scholar [𝓢](https://www.semanticscholar.org/author/Xiang-Lin/144366156)
-<!-- Linkedin <a href="https://www.linkedin.com/in/xiang-lin-090620159/?originalSubdomain=sg"><i class="fab fa-linkedin-in"></i></a> -->
+## 🧱Address
+**Multimedia and Interactive Computing Lab (MICL)** <br>
+Block N4 #B1C-17 <br>
+School of Computer Science and Engineering <br>
+Nanyang Technological University <br>
+Singapore 639798<br>
 
-## ✑Research Papers    
-```* denotes equal contributions```
-
-- Simeng Han\*, **Xiang Lin**\* and Shafiq Joty, “[Resurrecting Submodularity in Neural Abstractive Summarization](https://arxiv.org/abs/1911.03014)”, In *arXiv* (2019).<br>
-<!-- \[[pdf](https://arxiv.org/pdf/1911.03014.pdf)\] -->
-<a href="https://arxiv.org/pdf/1911.03014.pdf"><i class="far fa-file-pdf"></i></a>
-<!-- <a href="https://arxiv.org/pdf/1911.03014.pdf"><i class="fas fa-quote-right"></i> -->
-
-- Linlin Liu\*, **Xiang Lin**\*, Shafiq Joty, Simeng Han, and Lidong Bing, “[Hierarchical Pointer Net Parsing](https://www.aclweb.org/anthology/D19-1093/)”, In *Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing* (**EMNLP'19**) , Hong Kong, China (2019).<br>
-<!-- \[[pdf](https://www.aclweb.org/anthology/D19-1093.pdf)\]\[[BibTeX](https://www.aclweb.org/anthology/D19-1093.bib)\] -->
-<a href="https://www.aclweb.org/anthology/D19-1093.pdf"><i class="far fa-file-pdf"></i></a>
-&nbsp;<a href="https://www.aclweb.org/anthology/D19-1093.bib"><i class="fas fa-quote-right"></i></a>
-&nbsp;<a href="https://github.com/ntunlp/ptrnet-depparser"><i class="fas fa-code"></i></a>
-
-- **Xiang Lin**\*, Shafiq Joty\*, Prathyusha Jwalapuram, M Saiful Bari, “[A Unified Linear-Time Framework for Sentence-Level Discourse Parsing](https://www.aclweb.org/anthology/P19-1410/)”, In *Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics* (**ACL’19**), Florence, Italy (2019).<br>
-<!-- \[[pdf](https://www.aclweb.org/anthology/P19-1410.pdf)\]\[[BibTeX](https://www.aclweb.org/anthology/P19-1410.bib)\] -->
-<a href="https://www.aclweb.org/anthology/P19-1410.pdf"><i class="far fa-file-pdf"></i></a>
-&nbsp;<a href="https://www.aclweb.org/anthology/P19-1410.bib"><i class="fas fa-quote-right"></i></a>
-&nbsp;<a href="https://drive.google.com/file/d/1z95oy3miWLWeDUJgWCm3Ku-HgjXqhG5P/view?usp=sharing"><i class="fas fa-laptop"></i></a>
-&nbsp;<a href="https://github.com/shawnlimn/UnifiedParser_RST"><i class="fas fa-code"></i></a>
+## 📧Email
+[*linx0057@e.ntu.edu.sg*](mailto:linx0057@e.ntu.edu.sg)
 
 <!-- 
 
