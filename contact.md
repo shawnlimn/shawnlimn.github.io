@@ -27,6 +27,9 @@ key: page-about
 ---
 
 &nbsp;
+## 📧Email
+[*linx0057@e.ntu.edu.sg*](mailto:linx0057@e.ntu.edu.sg)
+
 ## 🧱Address
 **Multimedia and Interactive Computing Lab (MICL)** <br>
 Block N4 #B1C-17 <br>
@@ -34,8 +37,6 @@ School of Computer Science and Engineering <br>
 Nanyang Technological University <br>
 Singapore 639798<br>
 
-## 📧Email
-[*linx0057@e.ntu.edu.sg*](mailto:linx0057@e.ntu.edu.sg)
 
 <!-- 
 
