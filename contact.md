@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       📲CONTACT
+  en      : &EN       📲CONTAddCT
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
@@ -25,7 +25,6 @@ titles:
   # @end locale config
 key: page-about
 ---
-
 
 ## 📧Email
 [*linx0057@e.ntu.edu.sg*](mailto:linx0057@e.ntu.edu.sg)
