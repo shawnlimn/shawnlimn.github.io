@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       📜PUBLICATIONS
+  en      : &EN       📲CONTACT
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
@@ -26,7 +26,7 @@ titles:
 key: page-about
 ---
 
- ddadf
+&nbsp;
 ## 🧱Address
 **Multimedia and Interactive Computing Lab (MICL)** <br>
 Block N4 #B1C-17 <br>
