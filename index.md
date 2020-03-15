@@ -29,7 +29,7 @@ key: page-about
 <!-- ![Image](https://lh6.googleusercontent.com/kVoHERvCqHV7Afe9krSKgAjjJAf6p4A5X0Tj1zMBqxJlJKLasUp6FQbTYozWD-0nCGvO_-uFJ3EAxnLbv0Gbk5u3puJo3kn_ZU1KVwWuw733iBVhZIE=w472){:.circle.border.shadow} -->
 
 <div style="width:15%; margin:1 auto;" align="center" markdown="1">
-![Image](https://lh6.googleusercontent.com/kVoHERvCqHV7Afe9krSKgAjjJAf6p4A5X0Tj1zMBqxJlJKLasUp6FQbTYozWD-0nCGvO_-uFJ3EAxnLbv0Gbk5u3puJo3kn_ZU1KVwWuw733iBVhZIE=w472){:.shadow.rounded}
+![Image](https://github.com/shawnlimn/shawnlimn.github.io/blob/master/screenshots/pic.jpg){:.shadow.rounded}
 </div>
 
 I am a **PhD student** in School of Computer Science and Engineering, at Nanyang Technological University, under the supervision of [Dr. Shafiq Joty](https://raihanjoty.github.io). I am currently working with several excellent young scholars in [NTU-NLP](https://ntunlpsg.github.io/#about) group.

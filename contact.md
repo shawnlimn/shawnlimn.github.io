@@ -26,9 +26,8 @@ titles:
 key: page-about
 ---
 
-## 📧Email
 
-<!-- Do feel free to drop me an [Email](mailto:linx0057@e.ntu.edu.sg) <br> -->
+## 📧Email
 [*linx0057@e.ntu.edu.sg*](mailto:linx0057@e.ntu.edu.sg)
 
 
