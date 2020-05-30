@@ -61,7 +61,7 @@ I am a **PhD student** in School of Computer Science and Engineering, at Nanyang
 
 
 ## ☃︎Miscellaneous
-- My Chinese name is 林翔. Huge fan for GSW and Lakers.
+- My Chinese name is 林翔. Huge fan for GSW and Lakers. Keyboard lover.
 - Research Associate in [NTU-NLP](https://ntunlpsg.github.io/#about)
 - Teaching Assistant in graduate course: [*Deep Learning for Natural Language Processing: From Theory to Practice*](https://ntunlpsg.github.io/ce7455_deep-nlp-20/)
 
