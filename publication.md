@@ -33,7 +33,7 @@ Semantic Scholar [𝓢](https://www.semanticscholar.org/author/Xiang-Lin/1443661
 ## ✑Research Papers    
 ```* denotes equal contributions```
 
-- Tasnim Mohiuddin\*, Prathyusha Jwalapuram\*, **Xiang Lin**\* and Shafiq Joty\*, “[CohEval: Benchmarking Coherence Models](https://arxiv.org/abs/2004.14626)”, In *arXiv* (2020).<br>
+- Tasnim Mohiuddin\*, Prathyusha Jwalapuram\*, **Xiang Lin**\* and Shafiq Joty\*, “[CohEval: Benchmarking Coherence Models](https://arxiv.org/abs/2004.14626)”, In *Proceedings of The 16th Annual Meeting of the European chapter of the Association for Computational Linguistics* (**EACL'21**).<br>
 <!-- \[[pdf](https://arxiv.org/pdf/1911.03014.pdf)\] -->
 <a href="https://arxiv.org/pdf/2004.14626.pdf"><i class="far fa-file-pdf"></i></a>
 <!-- <a href="https://arxiv.org/pdf/1911.03014.pdf"><i class="fas fa-quote-right"></i> -->
