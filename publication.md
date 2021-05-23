@@ -32,7 +32,7 @@ Semantic Scholar [𝓢](https://www.semanticscholar.org/author/Xiang-Lin/1443661
 
 ## ✑Research Papers    
 ```* denotes equal contributions```
-- **Xiang Lin**\*, Simeng Han, Shafiq Joty, “[Straight to the Gradient: Learning to Use Novel Tokens for Neural Text Generation]()”, In *Proceedings of the 38th International Conference on Machine Learning* (**ICML’21**, **Long Presentation**), Virtual Event (2021).<br>
+- **Xiang Lin**, Simeng Han, Shafiq Joty, “[Straight to the Gradient: Learning to Use Novel Tokens for Neural Text Generation]()”, In *Proceedings of the 38th International Conference on Machine Learning* (**ICML’21**, **Long Presentation**), Virtual Event (2021).<br>
 <!-- <a href="https://www.aclweb.org/anthology/P19-1410.pdf"><i class="far fa-file-pdf"></i></a>
 &nbsp;<a href="https://www.aclweb.org/anthology/P19-1410.bib"><i class="fas fa-quote-right"></i></a> -->
 &nbsp;<a href="https://github.com/shawnlimn/ScaleGrad"><i class="fas fa-code"></i></a>
