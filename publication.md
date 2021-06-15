@@ -32,9 +32,9 @@ Semantic Scholar [𝓢](https://www.semanticscholar.org/author/Xiang-Lin/1443661
 
 ## ✑Research Papers    
 ```* denotes equal contributions```
-- **Xiang Lin**, Simeng Han, Shafiq Joty, “[Straight to the Gradient: Learning to Use Novel Tokens for Neural Text Generation]()”, In *Proceedings of the 38th International Conference on Machine Learning* (**ICML’21**, **Long Presentation**), Virtual Event (2021).<br>
-<!-- <a href="https://www.aclweb.org/anthology/P19-1410.pdf"><i class="far fa-file-pdf"></i></a>
-&nbsp;<a href="https://www.aclweb.org/anthology/P19-1410.bib"><i class="fas fa-quote-right"></i></a> -->
+- **Xiang Lin**, Simeng Han, Shafiq Joty, “[Straight to the Gradient: Learning to Use Novel Tokens for Neural Text Generation](https://arxiv.org/abs/2106.07207)”, In *Proceedings of the 38th International Conference on Machine Learning* (**ICML’21**, **Long Presentation**), Virtual Event (2021).<br>
+<!-- &nbsp;<a href="https://www.aclweb.org/anthology/P19-1410.bib"><i class="fas fa-quote-right"></i></a> -->
+<a href="https://arxiv.org/pdf/2106.07207.pdf"><i class="far fa-file-pdf"></i></a> 
 &nbsp;<a href="https://github.com/shawnlimn/ScaleGrad"><i class="fas fa-code"></i></a>
 
 
@@ -42,7 +42,7 @@ Semantic Scholar [𝓢](https://www.semanticscholar.org/author/Xiang-Lin/1443661
 <!-- \[[pdf](https://arxiv.org/pdf/1911.03014.pdf)\] -->
 <a href="https://www.aclweb.org/anthology/2021.eacl-main.308.pdf"><i class="far fa-file-pdf"></i></a>
 &nbsp;<a href="https://www.aclweb.org/anthology/2021.eacl-main.308.bib"><i class="fas fa-quote-right"></i></a>
-
+&nbsp;<a href="https://ntunlpsg.github.io/project/coherence/coh-eval/"><i class="fas fa-code"></i></a>
 
 - Simeng Han\*, **Xiang Lin**\* and Shafiq Joty, “[Resurrecting Submodularity in Neural Text Generation](https://arxiv.org/abs/1911.03014)”, In *arXiv* (2020).<br>
 <!-- \[[pdf](https://arxiv.org/pdf/1911.03014.pdf)\] -->
