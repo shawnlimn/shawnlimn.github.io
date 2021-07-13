@@ -37,22 +37,7 @@ Semantic Scholar [𝓢](https://www.semanticscholar.org/author/Xiang-Lin/1443661
 <a href="https://proceedings.mlr.press/v139/lin21b/lin21b.pdf"><i class="far fa-file-pdf"></i></a> 
 &nbsp;<a href="http://proceedings.mlr.press/v139/lin21b.html"><i class="fas fa-quote-right"></i></a>
 &nbsp;<a href="https://github.com/shawnlimn/ScaleGrad"><i class="fas fa-code"></i></a>
-&nbsp;<button class="fas fa-quote-right" id="button-bibtex1" onclick="CopyToClipboard(
-"@InProceedings{pmlr-v139-lin21b,
-  title =    {Straight to the Gradient: Learning to Use Novel Tokens for Neural Text Generation},
-  author =       {Lin, Xiang and Han, Simeng and Joty, Shafiq},
-  booktitle =    {Proceedings of the 38th International Conference on Machine Learning},
-  pages =    {6642--6653},
-  year =   {2021},
-  editor =   {Meila, Marina and Zhang, Tong},
-  volume =   {139},
-  series =   {Proceedings of Machine Learning Research},
-  month =    {18--24 Jul},
-  publisher =    {PMLR},
-  pdf =    {http://proceedings.mlr.press/v139/lin21b/lin21b.pdf},
-  url =    {http://proceedings.mlr.press/v139/lin21b.html},
-  abstract =   {Advanced large-scale neural language models have led to significant success in many language generation tasks. However, the most commonly used training objective, Maximum Likelihood Estimation (MLE), has been shown problematic, where the trained model prefers using dull and repetitive phrases. In this work, we introduce ScaleGrad, a modification straight to the gradient of the loss function, to remedy the degeneration issue of the standard MLE objective. By directly maneuvering the gradient information, ScaleGrad makes the model learn to use novel tokens. Empirical results show the effectiveness of our method not only in open-ended generation, but also in directed generation tasks. With the simplicity in architecture, our method can serve as a general training objective that is applicable to most of the neural text generation tasks.}
-");  ></button>
+&nbsp;<button class="fas fa-quote-right" id="button-bibtex1" onclick="CopyToClipboard('Test');  ></button>
 
 
 - Tasnim Mohiuddin\*, Prathyusha Jwalapuram\*, **Xiang Lin**\* and Shafiq Joty\*, “[Rethinking Coherence Modeling: Synthetic vs. Downstream Tasks](https://www.aclweb.org/anthology/2021.eacl-main.308/)”, In *Proceedings of The 16th Annual Meeting of the European chapter of the Association for Computational Linguistics* (**EACL'21**).<br>
