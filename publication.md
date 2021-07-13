@@ -32,10 +32,12 @@ Semantic Scholar [𝓢](https://www.semanticscholar.org/author/Xiang-Lin/1443661
 
 ## ✑Research Papers    
 ```* denotes equal contributions```
-- **Xiang Lin**, Simeng Han, Shafiq Joty, “[Straight to the Gradient: Learning to Use Novel Tokens for Neural Text Generation](https://arxiv.org/abs/2106.07207)”, In *Proceedings of the 38th International Conference on Machine Learning* (**ICML’21**, **Long Presentation**), Virtual Event (2021).<br>
+- **Xiang Lin**, Simeng Han, Shafiq Joty, “[Straight to the Gradient: Learning to Use Novel Tokens for Neural Text Generation](http://proceedings.mlr.press/v139/lin21b.html)”, In *Proceedings of the 38th International Conference on Machine Learning* (**ICML’21**, **Long Presentation**), Virtual Event (2021).<br>
 <!-- &nbsp;<a href="https://www.aclweb.org/anthology/P19-1410.bib"><i class="fas fa-quote-right"></i></a> -->
-<a href="https://arxiv.org/pdf/2106.07207.pdf"><i class="far fa-file-pdf"></i></a> 
+<a href="https://proceedings.mlr.press/v139/lin21b/lin21b.pdf"><i class="far fa-file-pdf"></i></a> 
+&nbsp;<a href="http://proceedings.mlr.press/v139/lin21b.html"><i class="fas fa-quote-right"></i></a>
 &nbsp;<a href="https://github.com/shawnlimn/ScaleGrad"><i class="fas fa-code"></i></a>
+&nbsp;<button class="fas fa-quote-right" id="button-bibtex1" onclick="CopyToClipboard('bibtex');  ga('send', 'event', 'Ref Copy', 'CopyToClipboard', 'http://proceedings.mlr.press/v139/pmlr-v139-lin21b.bib', 15);"></button>
 
 
 - Tasnim Mohiuddin\*, Prathyusha Jwalapuram\*, **Xiang Lin**\* and Shafiq Joty\*, “[Rethinking Coherence Modeling: Synthetic vs. Downstream Tasks](https://www.aclweb.org/anthology/2021.eacl-main.308/)”, In *Proceedings of The 16th Annual Meeting of the European chapter of the Association for Computational Linguistics* (**EACL'21**).<br>
