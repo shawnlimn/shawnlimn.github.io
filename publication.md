@@ -37,7 +37,6 @@ Semantic Scholar [𝓢](https://www.semanticscholar.org/author/Xiang-Lin/1443661
 <a href="https://proceedings.mlr.press/v139/lin21b/lin21b.pdf"><i class="far fa-file-pdf"></i></a> 
 &nbsp;<a href="http://proceedings.mlr.press/v139/lin21b.html"><i class="fas fa-quote-right"></i></a>
 &nbsp;<a href="https://github.com/shawnlimn/ScaleGrad"><i class="fas fa-code"></i></a>
-&nbsp;<button class="fas fa-quote-right" id="button-bibtex1" onclick="CopyToClipboard('Test');  ></button>
 
 
 - Tasnim Mohiuddin\*, Prathyusha Jwalapuram\*, **Xiang Lin**\* and Shafiq Joty\*, “[Rethinking Coherence Modeling: Synthetic vs. Downstream Tasks](https://www.aclweb.org/anthology/2021.eacl-main.308/)”, In *Proceedings of The 16th Annual Meeting of the European chapter of the Association for Computational Linguistics* (**EACL'21**).<br>
