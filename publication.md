@@ -32,6 +32,11 @@ Semantic Scholar [𝓢](https://www.semanticscholar.org/author/Xiang-Lin/1443661
 
 ## ✑Research Papers    
 ```* denotes equal contributions```
+- Prathyusha Jwalapuram, Shafiq Joty and **Xiang Lin**, “[Rethinking Self-Supervision Objectives for Generalizable Coherence Modeling](https://arxiv.org/abs/1911.03014)”, *Under Review* (2021).<br>
+<!-- \[[pdf](https://arxiv.org/pdf/1911.03014.pdf)\] -->
+<a href="https://arxiv.org/pdf/2110.07198.pdf"><i class="far fa-file-pdf"></i></a>
+<!-- <a href="https://arxiv.org/pdf/1911.03014.pdf"><i class="fas fa-quote-right"></i> -->
+
 - **Xiang Lin**, Simeng Han, Shafiq Joty, “[Straight to the Gradient: Learning to Use Novel Tokens for Neural Text Generation](http://proceedings.mlr.press/v139/lin21b.html)”, In *Proceedings of the 38th International Conference on Machine Learning* (**ICML’21**, **Long Presentation**), Virtual Event (2021).<br>
 <!-- &nbsp;<a href="https://www.aclweb.org/anthology/P19-1410.bib"><i class="fas fa-quote-right"></i></a> -->
 <a href="https://proceedings.mlr.press/v139/lin21b/lin21b.pdf"><i class="far fa-file-pdf"></i></a> 
