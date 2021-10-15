@@ -32,7 +32,7 @@ Semantic Scholar [𝓢](https://www.semanticscholar.org/author/Xiang-Lin/1443661
 
 ## ✑Research Papers    
 ```* denotes equal contributions```
-- Prathyusha Jwalapuram, Shafiq Joty and **Xiang Lin**, “[Rethinking Self-Supervision Objectives for Generalizable Coherence Modeling](https://arxiv.org/abs/1911.03014)”, *Under Review* (2021).<br>
+- Prathyusha Jwalapuram, Shafiq Joty and **Xiang Lin**, “[Rethinking Self-Supervision Objectives for Generalizable Coherence Modeling](https://arxiv.org/abs/2110.07198)”, *Under Review* (2021).<br>
 <!-- \[[pdf](https://arxiv.org/pdf/1911.03014.pdf)\] -->
 <a href="https://arxiv.org/pdf/2110.07198.pdf"><i class="far fa-file-pdf"></i></a>
 <!-- <a href="https://arxiv.org/pdf/1911.03014.pdf"><i class="fas fa-quote-right"></i> -->
