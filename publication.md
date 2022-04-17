@@ -32,9 +32,9 @@ Semantic Scholar [𝓢](https://www.semanticscholar.org/author/Xiang-Lin/1443661
 
 ## ✑Research Papers    
 ```* denotes equal contributions```
-- Shankar Kantharaj\*, Rixie Tiffany Ko Leong\*, Xiang Lin\*, Ahmed Masry\*, Megh Thakkar\*, Enamul Hoque and Shafiq Joty, “[Chart-to-Text: A Large-Scale Benchmark for Chart Summarization]()”, In *Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics* (**ACL’22**, **Main Conference**), Dublin, Ireland (2022).<br>
+- Shankar Kantharaj\*, Rixie Tiffany Ko Leong\*, Xiang Lin\*, Ahmed Masry\*, Megh Thakkar\*, Enamul Hoque and Shafiq Joty, “[Chart-to-Text: A Large-Scale Benchmark for Chart Summarization](https://arxiv.org/abs/2203.06486)”, In *Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics* (**ACL’22**, **Main Conference**), Dublin, Ireland (2022).<br>
 <!-- \[[pdf](https://arxiv.org/pdf/1911.03014.pdf)\] -->
-<!-- <a href="https://arxiv.org/pdf/2110.07198.pdf"><i class="far fa-file-pdf"></i></a> -->
+<a href="https://arxiv.org/pdf/2203.06486.pdf"><i class="far fa-file-pdf"></i></a>
 <!-- <a href="https://arxiv.org/pdf/1911.03014.pdf"><i class="fas fa-quote-right"></i> -->
 
 
