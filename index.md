@@ -53,17 +53,17 @@ I am a **PhD student** in School of Computer Science and Engineering, at Nanyang
 **Nanyang Technological University**, Singapore &nbsp;&nbsp;*2019 - Present*
 - Ph.D. in Computer Science 
 
-**Nanyang Technological University**, Singapore &nbsp;&nbsp;*2017 - 2018*    
+<!-- **Nanyang Technological University**, Singapore &nbsp;&nbsp;*2017 - 2018*    
 - M.Sc. in Electrical and Electronics Engineering
 
 **Chongqing University**, Chongqing, China &nbsp;&nbsp;*2011 - 2015*
-- B.Eng. in Electrical and Electronics Engineering
+- B.Eng. in Electrical and Electronics Engineering -->
 
 
 ## ☃︎Miscellaneous
 - My Chinese name is 林翔. Huge fan for GSW and Lakers. Keyboard lover.
 - Research Associate in [NTU-NLP](https://ntunlpsg.github.io/#about)
-- Teaching Assistant in graduate course: [*Deep Learning for Natural Language Processing: From Theory to Practice*](https://ntunlpsg.github.io/ce7455_deep-nlp-20/)
+<!-- - Teaching Assistant in graduate course: [*Deep Learning for Natural Language Processing: From Theory to Practice*](https://ntunlpsg.github.io/ce7455_deep-nlp-20/) -->
 
 
 
