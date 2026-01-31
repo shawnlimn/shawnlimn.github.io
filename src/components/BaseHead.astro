@@ -16,6 +16,11 @@ const socialImageURL = new URL(ogImage ? ogImage : "/social-card.png", Astro.url
 
 <meta charset="utf-8" />
 <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+
+{/* Google Fonts - VT323 */}
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet" />
 <title>{siteTitle}</title>
 
 {/* Icons */}
@@ -69,9 +74,9 @@ const socialImageURL = new URL(ogImage ? ogImage : "/social-card.png", Astro.url
 {/* Sitemap */}
 <link href="/sitemap-index.xml" rel="sitemap" />
 
-{/* RSS auto-discovery */}
-<link href="/rss.xml" title="Blog" rel="alternate" type="application/rss+xml" />
-<link href="/notes/rss.xml" title="Notes" rel="alternate" type="application/rss+xml" />
+{/* RSS auto-discovery - disabled for now */}
+{/* <link href="/rss.xml" title="Blog" rel="alternate" type="application/rss+xml" /> */}
+{/* <link href="/notes/rss.xml" title="Notes" rel="alternate" type="application/rss+xml" /> */}
 
 {/* Webmentions */}
 {
